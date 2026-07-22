@@ -1,0 +1,6 @@
+Rate(C),Discharge_Capacity(Ah),Average_Voltage(V)
+0.2,2.5,3.58
+0.5,2.375,3.55
+1,2.25,3.5
+2,2.125,3.4
+3,2.0,3.3
